@@ -1,0 +1,8 @@
+1. Create Github account
+2. Empty Repository
+3. local system
+       git config --global user.name "Kumar-Prabhakar"
+       git config --global user.email "kumarprabhakarsunny872@gmail.com"
+4. git push -u origin master
+       4.1. username -> Kumar-Prabhakar
+       4.2. password -> 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 
